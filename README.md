@@ -7,6 +7,7 @@ Same confusion builds up more when an individual listen to music on Spotify or w
 Recommended system is a system that attempts to predict preferences of the user by learning from the user’s behavior.  
 This report is an overview of movie lens data where we are suggesting a recommended system by analyzing ratings given by the users. 
 Recommended system is an information filtering tool that is predominant when it comes to machine learning using big data technologies.  
+
 The goal is to analyze the movies that are highly rated by the user’s and recommend them movies which are of similar ratings. 
 Techniques such as Alternating Least Squares [ALS] for collaborative filtering, Regression Evaluator, spark SQL are used in the implementation of recommendation system. 
 The Programming is done using PySpark with Hadoop Distributed File System [HDFS] as our storage model.  
